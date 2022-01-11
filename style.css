@@ -3,10 +3,16 @@ div.bloc1{
     background-color: aqua;
 }
 div.bloc2{
-    color: gray;
+    color: green;
     background-color: yellow;
 }
 div.bloc3{
     color: blue;
     background-color: orange;
+}
+span.hola {
+    background-color: yellow;
+}
+span.bon {
+    background-color: red;
 }
