@@ -1,0 +1,25 @@
+div.title {
+    background-color: khaki;
+    text-align: center;
+}
+div.subtitle {
+    color: black;
+    background-color: greenyellow;
+    text-align: center;
+}
+div.QS {
+    background-color: orange;
+}
+div.enlaces {
+    display: inline-block;
+}
+div.pie {
+    background-color: orange;
+}
+div.down {
+    background-color: blue;
+    text-align: center;
+}
+span.down1 {
+    background-color: yellow;
+}
