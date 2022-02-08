@@ -1,23 +1,22 @@
 
-span.hola {
-    background-color: yellow;
+span.diners{
+    font-style: oblique;
 }
-span.bon {
-    background-color: red;
+span.no{
+    text-decoration: line-through;
 }
-
-div.bloc{
-    background-color: yellow;
-    border: 1px solid red;
-    width: 250px;
-    height: 100px;
-    display: inline-block;
-}
-p.azul{
+p.blau{
     color: blue;
 }
-
-span.dissabtes{
-    color: red;
+span.smr{
+    color: crimson;
     font-weight: bold;
+}
+span.promte{
+    font-style: oblique;
+
+}
+span.ono{
+    text-decoration: line-through;
+    
 }
